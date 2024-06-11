@@ -1,0 +1,4 @@
+sensor1/ filter=lfs diff=lfs merge=lfs -text
+sensor1/sensor1_models.npz filter=lfs diff=lfs merge=lfs -text
+sensor1/sensor1_shape.npz filter=lfs diff=lfs merge=lfs -text
+sensor1/sensor_pos_ref.csv filter=lfs diff=lfs merge=lfs -text

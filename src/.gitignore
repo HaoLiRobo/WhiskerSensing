@@ -1,0 +1,5 @@
+*.npz
+*.svg
+*.pth
+scripts/wandb/*
+scripts/saved_model/*
