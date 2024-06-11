@@ -2,8 +2,8 @@
 # Navigation and 3D Surface Reconstruction from Passive Whisker Sensing
 This repository contains the implementation for the Bayes Filtering methods for contact tracking in [*Navigation and 3D Surface Reconstruction from Passive Whisker Sensing*](https://www.arxiv.org/abs/2406.06038)
 
-<img src="./figures/3D-cone.png" width="250" height="250"> <img src="./figures/3D-cup.png" width="250" height="250"> \
-
+<img src="./figures/3D-cone.png" width="250" height="250"> <img src="./figures/3D-cup.png" width="250" height="250">
+<br />
 <img src="./figures/3D-flat-fixture.png" width="250" height="250"> <img src="./figures/3D-square-fixture.png" width="250" height="250"> 
 
 
